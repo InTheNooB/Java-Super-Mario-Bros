@@ -1,0 +1,31 @@
+<map>
+    <name>1-2-2</name>
+    <width>34</width>
+    <height>15</height>
+    <mapType>1</mapType>
+    <camLocked>true</camLocked>
+    <bricks>
+        <brick>
+            <x>30</x>
+            <y>9</y>
+            <content>coin</content>
+            <quantity>2</quantity>
+        </brick>
+    </bricks>
+    <links>
+        <link>
+            <sourceMap>
+                <name>1-2-2</name>
+                <x>29</x>
+                <y>11</y>
+                <pipe>true</pipe>
+            </sourceMap>
+            <destinationMap>
+                <name>1-2</name>
+                <x>115</x>
+                <y>20</y>
+                <pipe>true</pipe>
+            </destinationMap>
+        </link>
+    </links>
+</map>

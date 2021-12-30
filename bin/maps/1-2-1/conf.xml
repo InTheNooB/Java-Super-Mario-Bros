@@ -1,0 +1,26 @@
+<map>
+    <name>1-2-1</name>
+    <width>24</width>
+    <height>31</height>
+    <mapType>0</mapType>
+    <camLocked>true</camLocked>
+    <castle>
+        <type>end</type>
+        <x>2</x>
+        <y>29</y>
+    </castle>
+    <links>
+        <link>
+            <sourceMap>
+                <name>1-2-1</name>
+                <x>13</x>
+                <y>26</y>
+                <pipe>true</pipe>
+            </sourceMap>
+            <destinationMap>
+                <name>1-2</name>
+                <pipe>true</pipe>
+            </destinationMap>
+        </link>
+    </links>
+</map>
